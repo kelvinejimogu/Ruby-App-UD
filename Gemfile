@@ -44,7 +44,7 @@ gem 'spring',      group: :development
 
 gem 'pg', group: :production
 
-gem 'sqlite3', '~> 1.3.13', group: :production
+gem 'sqlite3', '~> 1.3.13', group: :development 
  
 gem 'rails_12factor', group: :production
 
